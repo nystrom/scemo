@@ -1,0 +1,2 @@
+# scemo
+Dumb VM
